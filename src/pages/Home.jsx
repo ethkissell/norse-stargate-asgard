@@ -9,14 +9,14 @@ export default function Home() {
         <div className="figure-grid">
           <figure className="figure-wrap">
           <div className="figure-frame">
-            <img src={'src/images/sg1-logo.jpg'} alt="SG-1-Logo" />
+            <img src={'../images/sg1-logo.jpg'} alt="SG-1-Logo" />
           </div>
           <figcaption className="figure-caption">
           </figcaption>
           </figure>
           <figure className="figure-wrap">
           <div className="figure-frame">
-            <img src={'src/images/atlantis-logo.jpg'} alt="Atlantis-Logo" />
+            <img src={'../images/atlantis-logo.jpg'} alt="Atlantis-Logo" />
           </div>
           <figcaption className="figure-caption">
           </figcaption>
@@ -29,7 +29,7 @@ export default function Home() {
       <div className="content-block split-layout reverse">
         <figure className="figure-wrap">
           <div className="figure-frame">
-          <img src={'src/images/sg-1-open-gate.jpg'} alt="Open-gate" />
+          <img src={'../images/sg-1-open-gate.jpg'} alt="Open-gate" />
           </div>
           <figcaption className="figure-caption">
             An open gate with SG-1 traversing.

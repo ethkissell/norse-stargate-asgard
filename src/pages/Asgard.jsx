@@ -6,7 +6,7 @@ export default function Asgard() {
             <div className="content-block figure-centered">
                 <figure className="figure-wrap">
                     <div className="figure-frame">
-                    <img src={'src/images/asgard.jpg'} alt="Asgard" />
+                    <img src={'../images/asgard.jpg'} alt="Asgard" />
                     </div>
                     <figcaption className="figure-caption">
                         Thor, one of the Asgard.
@@ -20,7 +20,7 @@ export default function Asgard() {
             <div className="content-block split-layout">
                 <figure className="figure-wrap">
                     <div className="figure-frame">
-                    <img src={'src/images/homeworld.jpg'} alt="Asgard-Homeworld" />
+                    <img src={'../images/homeworld.jpg'} alt="Asgard-Homeworld" />
                     </div>
                     <figcaption className="figure-caption">
                         The Asgard homeworld, Othala
@@ -46,7 +46,7 @@ export default function Asgard() {
                 <div className="figure-grid">
                     <figure className="figure-wrap">
                     <div className="figure-frame">
-                        <img src={'src/images/baal.jpg'} alt="Baal" />
+                        <img src={'../images/baal.jpg'} alt="Baal" />
                     </div>
                     <figcaption className="figure-caption">
                         Baal, a Goa'uld.
@@ -55,7 +55,7 @@ export default function Asgard() {
 
                     <figure className="figure-wrap">
                     <div className="figure-frame">
-                        <img src={'src/images/replicator.jpg'} alt="Replicator" />
+                        <img src={'../images/replicator.jpg'} alt="Replicator" />
                     </div>
                     <figcaption className="figure-caption">
                         A Replicator ship.
@@ -70,7 +70,7 @@ export default function Asgard() {
             <div className="content-block split-layout reverse">
                 <figure className="figure-wrap">
                     <div className="figure-frame">
-                    <img src={'src/images/ragnarok.jpg'} alt="Ragnarök" />
+                    <img src={'../images/ragnarok.jpg'} alt="Ragnarök" />
                     </div>
                     <figcaption className="figure-caption">
                         The Asgard's end, Ragnarök.
@@ -91,7 +91,7 @@ export default function Asgard() {
             <div className="content-block figure-centered">
                 <figure className="figure-wrap">
                     <div className="figure-frame">
-                    <img src={'src/images/asgard-contact.jpg'} alt="O'Neill-Contact" />
+                    <img src={'../images/asgard-contact.jpg'} alt="O'Neill-Contact" />
                     </div>
                     <figcaption className="figure-caption">
                         Jack O'Neill meeting the Asgard.
