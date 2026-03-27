@@ -1,5 +1,9 @@
 import React from 'react'
 
+import sgImage from '../images/sg1-logo.jpg';
+import atlantisImage from '../images/atlantis-logo.jpg';
+import openGateImage from '../images/sg-1-open-gate.jpg';
+
 export default function Home() {
   return (
     <div>
@@ -9,14 +13,14 @@ export default function Home() {
         <div className="figure-grid">
           <figure className="figure-wrap">
           <div className="figure-frame">
-            <img src={'../images/sg1-logo.jpg'} alt="SG-1-Logo" />
+            <img src={sgImage} alt="SG-1-Logo" />
           </div>
           <figcaption className="figure-caption">
           </figcaption>
           </figure>
           <figure className="figure-wrap">
           <div className="figure-frame">
-            <img src={'../images/atlantis-logo.jpg'} alt="Atlantis-Logo" />
+            <img src={atlantisImage} alt="Atlantis-Logo" />
           </div>
           <figcaption className="figure-caption">
           </figcaption>
@@ -29,7 +33,7 @@ export default function Home() {
       <div className="content-block split-layout reverse">
         <figure className="figure-wrap">
           <div className="figure-frame">
-          <img src={'../images/sg-1-open-gate.jpg'} alt="Open-gate" />
+          <img src={openGateImage} alt="Open-gate" />
           </div>
           <figcaption className="figure-caption">
             An open gate with SG-1 traversing.

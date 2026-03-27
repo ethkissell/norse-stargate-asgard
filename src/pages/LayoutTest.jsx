@@ -1,5 +1,7 @@
 import React from 'react'
 
+import testImage from '../images/test.jpg'
+
 export default function LayoutTest() {
     return (
         <div className="page-section">
@@ -9,7 +11,7 @@ export default function LayoutTest() {
             <div className="content-block split-layout">
                 <figure className="figure-wrap">
                     <div className="figure-frame">
-                    <img src={'../images/test.jpg'} alt="test" />
+                    <img src={testImage} alt="test" />
                     </div>
                     <figcaption className="figure-caption">
                     Caption explaining the image.
@@ -30,7 +32,7 @@ export default function LayoutTest() {
             <div className="content-block split-layout reverse">
                 <figure className="figure-wrap">
                     <div className="figure-frame">
-                    <img src={'../images/test.jpg'} alt="test" />
+                    <img src={testImage} alt="test" />
                     </div>
                     <figcaption className="figure-caption">
                     Caption explaining the image.
@@ -52,7 +54,7 @@ export default function LayoutTest() {
                 <div className="figure-grid">
                     <figure className="figure-wrap">
                     <div className="figure-frame">
-                        <img src={'../images/test.jpg'} alt="test one" />
+                        <img src={testImage} alt="test one" />
                     </div>
                     <figcaption className="figure-caption">
                         Caption for the first image.
@@ -61,7 +63,7 @@ export default function LayoutTest() {
 
                     <figure className="figure-wrap">
                     <div className="figure-frame">
-                        <img src={'../images/test.jpg'} alt="test two" />
+                        <img src={testImage} alt="test two" />
                     </div>
                     <figcaption className="figure-caption">
                         Caption for the second image.
@@ -74,7 +76,7 @@ export default function LayoutTest() {
             <div className="content-block figure-centered">
                 <figure className="figure-wrap">
                     <div className="figure-frame">
-                    <img src={'../images/test.jpg'} alt="test" />
+                    <img src={testImage} alt="test" />
                     </div>
                     <figcaption className="figure-caption">
                     Caption explaining the image.
