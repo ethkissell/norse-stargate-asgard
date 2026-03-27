@@ -84,7 +84,7 @@ p {
   display: grid;
   grid-template-columns: var(--figure-width) minmax(0, 1fr);
   gap: var(--gap);
-  align-items: start;
+  align-items: center;
 }
 
 .split-layout.reverse {
@@ -109,6 +109,11 @@ p {
   .split-layout.reverse .page-text {
     order: initial;
   }
+}
+
+.split-layout .page-text,
+.split-layout.reverse .page-text {
+  max-width: none;
 }
 
 /* figure base */
