@@ -10,6 +10,7 @@ import contactImage from '../images/asgard-contact.jpg';
 export default function Asgard() {
     return (
         <div>
+            <h3 className='contentTitle'>About the Asgard</h3>
             <div className="content-block figure-centered">
                 <figure className="figure-wrap">
                     <div className="figure-frame">
@@ -46,7 +47,7 @@ export default function Asgard() {
             </p>
 
             <p>
-            That also changes the way authority works. In Norse myth, gods gain authority through lineage, power, reputation, sacrifice, and their place in the mythic order. In <i>Stargate</i>, the god-name figures are still important, but their authority is expressed through diplomacy, leadership, and technical ability rather than divine violence. Thor, for example, functions more as a diplomatic representative than as a warrior in the mythic sense, which is why he is best treated briefly here and in greater detail elsewhere. The show preserves the idea of the god as a guardian of order, but it replaces the hammer-wielding god with a calm, rational leader. Further showcasing the shows willingness to trade the myth framework for science fiction civilization one.
+            That also changes the way authority works. In Norse myth, gods gain authority through lineage, power, reputation, sacrifice, and their place in the mythic order. In <i>Stargate</i>, the god-name figures are still important, but their authority is expressed through diplomacy, leadership, and technical ability rather than divine violence. Thor, for example, functions more as a diplomatic representative than as a warrior in the mythic sense, which is why he is best treated briefly here and in greater detail elsewhere. The show preserves the idea of the god as a guardian of order, but it replaces the hammer-wielding god with a calm, rational leader. Further showcasing the shows willingness to trade the myth framework for a science fiction civilization one.
             </p>
 
             <div className="content-block">
@@ -86,7 +87,7 @@ export default function Asgard() {
 
                 <div className="page-text">
                     <p>
-                    That difference matters especially when comparing Ragnarök to the end of the Asgard civilization. In Norse myth, Ragnarök is a cosmic catastrophe tied to prophecy, divine failure, and the destruction of the old world to continue the cycle. In <i>Stargate</i>, the Asgard end through complications arising from their attempts to resolve genetic issues brought about after generations of cloning. Instead of dying to a genetic disease, the Asgard decide to gift their technology to the humans and blow up their planet so other races, like the Goa’uld, could not loot their homeworld. Their extinction is tragic, but it is not mythic in the same way; it is the end of a species rather than the end of an age of gods. The similarity is structural rather than literal: both traditions present a final collapse that cannot be fully avoided, but <i>Stargate</i> reinterprets fate and prophecy through the scientific reality that their genetic code is becoming increasingly unstable. Even so, the emotional effect remains powerful. The Asgard’s end feels like a modernized Ragnarök because it marks the loss of an ancient, revered people whose fall carries enormous symbolic weight.
+                    That difference matters especially when comparing Ragnarök to the end of the Asgard civilization. In Norse myth, Ragnarök is a cosmic catastrophe tied to prophecy, divine failure, and the destruction of the old world to continue the cycle. In <i>Stargate</i>, the Asgard end through complications arising from their attempts to resolve genetic issues brought about after generations of cloning. Instead of dying to a genetic disease, the Asgard decide to gift their technology to the humans and blow up their planet so other races, like the Goa’uld, could not loot their homeworld. Their extinction is tragic, but it is not mythic in the same way; it is the end of a species rather than the end of an age of gods. The similarity is structural rather than literal: both traditions present a final collapse that cannot be fully avoided, but <i>Stargate</i> reinterprets fate and prophecy through the known scientific reality that their genetic code is becoming increasingly unstable. Even so, the emotional effect remains powerful. The Asgard’s end feels like a modernized Ragnarök because it marks the loss of an ancient, revered people whose fall carries enormous symbolic weight.
                     </p>
                 </div>
             </div>
