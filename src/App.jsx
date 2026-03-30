@@ -5,12 +5,14 @@ import IconNav from "./components/IconNav";
 
 // images for the navbar
 import asgardIcon from "./icons/asgard.svg";
+import societyIcon from "./icons/society.svg";
 import thorIcon   from "./icons/thor.svg";
 import citationIcon from "./icons/citation.svg";
 
 // main content
 import Home from './pages/Home';
 import Asgard from './pages/Asgard';
+import Society from './pages/Society';
 import Thor from './pages/Thor';
 import Citations from './pages/Citations';
 
@@ -26,6 +28,7 @@ export default function App() {
   // Add / remove icons here (sections)
   const navItems = [
     { id: "asgard", label: "Asgard", img: asgardIcon, content: <Asgard /> },
+    { id: "society", label: "Myth & Culture", img: societyIcon, content: <Society /> },
     { id: "thor", label: "Thor", img: thorIcon, content: <Thor /> },
     { id: "citations", label: "Citations", img: citationIcon, content: <Citations /> },
     // dev pages
