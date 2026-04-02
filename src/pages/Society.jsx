@@ -1,10 +1,10 @@
 import React from 'react';
 
-import thorHammer from '../images/thor-hammer.jpg';
-import asgardRunes from '../images/asgard-runes.jpg';
-import norseRunes from '../images/norse-runes.jpg';
-import runestone from '../images/runestone.jpg';
-import proseEdda from '../images/prose-edda.jpg';
+import thorHammer from '../images/thor-hammer.webp';
+import asgardRunes from '../images/asgard-runes.webp';
+import norseRunes from '../images/norse-runes.webp';
+import runestone from '../images/runestone.webp';
+import proseEdda from '../images/prose-edda.webp';
 
 export default function Society() {
     return (

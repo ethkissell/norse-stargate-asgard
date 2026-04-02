@@ -1,8 +1,8 @@
 import React from 'react'
 
-import sgImage from '../images/sg1-logo.jpg';
-import atlantisImage from '../images/atlantis-logo.jpg';
-import openGateImage from '../images/sg-1-open-gate.jpg';
+import sgImage from '../images/sg1-logo.webp';
+import atlantisImage from '../images/atlantis-logo.webp';
+import openGateImage from '../images/sg-1-open-gate.webp';
 
 export default function Home() {
   return (

@@ -1,11 +1,11 @@
 import React from 'react'
 
-import asgardImage from '../images/asgard.jpg';
-import homeworldImage from '../images/homeworld.jpg';
-import baalImage from '../images/baal.jpg';
-import replicatorImage from '../images/replicator.jpg';
-import ragnarokImage from '../images/ragnarok.jpg';
-import contactImage from '../images/asgard-contact.jpg';
+import asgardImage from '../images/asgard.webp';
+import homeworldImage from '../images/homeworld.webp';
+import baalImage from '../images/baal.webp';
+import replicatorImage from '../images/replicator.webp';
+import ragnarokImage from '../images/ragnarok.webp';
+import contactImage from '../images/asgard-contact.webp';
 
 export default function Asgard() {
     return (

@@ -1,6 +1,6 @@
 import React from 'react'
 
-import testImage from '../images/test.jpg'
+import testImage from '../images/test.webp'
 
 export default function LayoutTest() {
     return (
