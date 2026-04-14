@@ -16,7 +16,7 @@ export default function Society() {
                     <img src={thorHammer} alt="test" />
                     </div>
                     <figcaption className="figure-caption">
-                        Thor's Hammer in Stargate.
+                        Thor's Hammer in Stargate
                     </figcaption>
                 </figure>
             </div>
@@ -31,7 +31,7 @@ export default function Society() {
                         <img src={norseRunes} alt="test one" />
                     </div>
                     <figcaption className="figure-caption">
-                        Norse runes on the Transjö runestone in Sweden.
+                        Norse runes on the Transjö runestone in Sweden
                     </figcaption>
                     </figure>
 
@@ -40,7 +40,7 @@ export default function Society() {
                         <img src={asgardRunes} alt="test two" />
                     </div>
                     <figcaption className="figure-caption">
-                        Asgard runes projected from a database in the show.
+                        Asgard runes projected from a database in the show
                     </figcaption>
                     </figure>
                 </div>
@@ -55,7 +55,7 @@ export default function Society() {
                     <img src={runestone} alt="test" />
                     </div>
                     <figcaption className="figure-caption">
-                        A runestone in Drävle, Uppland, Sweden.
+                        A runestone in Drävle, Uppland, Sweden
                     </figcaption>
                 </figure>
 
@@ -76,7 +76,7 @@ export default function Society() {
                     <img src={proseEdda} alt="test" />
                     </div>
                     <figcaption className="figure-caption">
-                        An early manuscript cover for the Prose Edda.
+                        An early manuscript cover for the Prose Edda
                     </figcaption>
                 </figure>
 

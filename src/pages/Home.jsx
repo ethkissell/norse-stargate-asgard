@@ -36,7 +36,7 @@ export default function Home() {
           <img src={openGateImage} alt="Open-gate" />
           </div>
           <figcaption className="figure-caption">
-            An open gate with SG-1 traversing.
+            An open gate with SG-1 traversing
           </figcaption>
         </figure>
 

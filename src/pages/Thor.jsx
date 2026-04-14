@@ -1,5 +1,13 @@
 import React from 'react'
 
+import asgardThor from '../images/asgardThor.webp';
+import hologramThor from '../images/hologramThor.webp';
+import mythThor from '../images/mythThor.webp';
+import sgDanger from '../images/sgDanger.webp';
+import thorConsole from '../images/thorConsole.webp';
+import thorDiplomacy from '../images/thorDiplomacy.webp';
+import thorsChariot from '../images/thorsChariot.webp';
+
 export default function Thor() {
     return (
         <div>
@@ -7,10 +15,10 @@ export default function Thor() {
             <div className="content-block split-layout reverse">
                 <figure className="figure-wrap">
                     <div className="figure-frame">
-                    <img src={image} alt="Thor-Asgard" />
+                    <img src={asgardThor} alt="Thor-Asgard" />
                     </div>
                     <figcaption className="figure-caption">
-                        Thor in his true alien form.
+                        Thor in his true alien form
                     </figcaption>
                 </figure>
 
@@ -25,19 +33,19 @@ export default function Thor() {
                 <div className="figure-grid">
                     <figure className="figure-wrap">
                     <div className="figure-frame">
-                        <img src={image} alt="Hologram-Thor" />
+                        <img src={hologramThor} alt="Hologram-Thor" />
                     </div>
                     <figcaption className="figure-caption">
-                        The Hologram version of Thor.
+                        The Hologram version of Thor
                     </figcaption>
                     </figure>
 
                     <figure className="figure-wrap">
                     <div className="figure-frame">
-                        <img src={image} alt="Myth-Thor" />
+                        <img src={mythThor} alt="Myth-Thor" />
                     </div>
                     <figcaption className="figure-caption">
-                        Artistic depiction of the mythic Thor.
+                        Artistic depiction of the mythic Thor
                     </figcaption>
                     </figure>
                 </div>
@@ -49,10 +57,10 @@ export default function Thor() {
             <div className="content-block split-layout">
                 <figure className="figure-wrap">
                     <div className="figure-frame">
-                    <img src={image} alt="Bilskirnir-Descends" />
+                    <img src={thorsChariot} alt="Bilskirnir-Descends" />
                     </div>
                     <figcaption className="figure-caption">
-                        Bilskirnir descending to protect the people of Cimmeria.
+                        Bilskirnir descending to protect the people of Cimmeria from Goa'uld pyramid ships
                     </figcaption>
                 </figure>
 
@@ -67,19 +75,19 @@ export default function Thor() {
                 <div className="figure-grid">
                     <figure className="figure-wrap">
                     <div className="figure-frame">
-                        <img src={image} alt="Thor-at-Helm" />
+                        <img src={thorConsole} alt="Thor-at-Helm" />
                     </div>
                     <figcaption className="figure-caption">
-                        Thor calmly at the helm of his ship.
+                        Thor calmly at the helm of his ship
                     </figcaption>
                     </figure>
 
                     <figure className="figure-wrap">
                     <div className="figure-frame">
-                        <img src={image} alt="SG-1-in-trouble" />
+                        <img src={sgDanger} alt="SG-1-in-trouble" />
                     </div>
                     <figcaption className="figure-caption">
-                        SG-1 in the other room fighting Replicators.
+                        SG-1 in the other room fighting Replicators
                     </figcaption>
                     </figure>
                 </div>
@@ -91,10 +99,10 @@ export default function Thor() {
             <div className="content-block split-layout">
                 <figure className="figure-wrap">
                     <div className="figure-frame">
-                    <img src={image} alt="thor-diplomacy" />
+                    <img src={thorDiplomacy} alt="thor-diplomacy" />
                     </div>
                     <figcaption className="figure-caption">
-                        Thor meeting diplomats from other countries.
+                        Thor meeting diplomats from other countries
                     </figcaption>
                 </figure>
 

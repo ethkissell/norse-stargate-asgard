@@ -17,8 +17,8 @@ import Thor from './pages/Thor';
 import Citations from './pages/Citations';
 
 // dev pages
-import testIcon from "./icons/test.svg";
-import LayoutTest from "./pages/LayoutTest";
+// import testIcon from "./icons/test.svg";
+// import LayoutTest from "./pages/LayoutTest";
 
 
 export default function App() {
@@ -32,7 +32,7 @@ export default function App() {
     { id: "thor", label: "Thor", img: thorIcon, content: <Thor /> },
     { id: "citations", label: "Citations", img: citationIcon, content: <Citations /> },
     // dev pages
-    { id: "layout", label: "LayoutTest", img: testIcon, content: <LayoutTest /> },
+    // { id: "layout", label: "LayoutTest", img: testIcon, content: <LayoutTest /> },
   ];
 
   // scrolling to top automatically

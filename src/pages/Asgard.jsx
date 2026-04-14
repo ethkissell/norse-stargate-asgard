@@ -17,7 +17,7 @@ export default function Asgard() {
                     <img src={asgardImage} alt="Asgard" />
                     </div>
                     <figcaption className="figure-caption">
-                        Thor, one of the Asgard.
+                        Thor, one of the Asgard
                     </figcaption>
                 </figure>
             </div>
@@ -57,7 +57,7 @@ export default function Asgard() {
                         <img src={baalImage} alt="Baal" />
                     </div>
                     <figcaption className="figure-caption">
-                        Baal, a Goa'uld.
+                        Baal, a Goa'uld
                     </figcaption>
                     </figure>
 
@@ -66,7 +66,7 @@ export default function Asgard() {
                         <img src={replicatorImage} alt="Replicator" />
                     </div>
                     <figcaption className="figure-caption">
-                        A Replicator ship.
+                        A Replicator ship
                     </figcaption>
                     </figure>
                 </div>
@@ -81,7 +81,7 @@ export default function Asgard() {
                     <img src={ragnarokImage} alt="Ragnarök" />
                     </div>
                     <figcaption className="figure-caption">
-                        The Asgard's end, Ragnarök.
+                        The Asgard's end, Ragnarök
                     </figcaption>
                 </figure>
 
@@ -102,7 +102,7 @@ export default function Asgard() {
                     <img src={contactImage} alt="O'Neill-Contact" />
                     </div>
                     <figcaption className="figure-caption">
-                        Colonel Jack O'Neill meeting the Asgard.
+                        Colonel Jack O'Neill meeting the Asgard
                     </figcaption>
                 </figure>
             </div>
