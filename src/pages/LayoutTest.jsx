@@ -22,9 +22,6 @@ export default function LayoutTest() {
                     <p>
                     Put your text here. This layout is good when the image supports the paragraph.
                     </p>
-                    <p>
-                    Add more text here if needed.
-                    </p>
                 </div>
             </div>
 
@@ -42,9 +39,6 @@ export default function LayoutTest() {
                 <div className="page-text">
                     <p>
                     Put your text here. This version flips the image to the right.
-                    </p>
-                    <p>
-                    More supporting text goes here.
                     </p>
                 </div>
             </div>

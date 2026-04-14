@@ -102,7 +102,7 @@ export default function Asgard() {
                     <img src={contactImage} alt="O'Neill-Contact" />
                     </div>
                     <figcaption className="figure-caption">
-                        Jack O'Neill meeting the Asgard.
+                        Colonel Jack O'Neill meeting the Asgard.
                     </figcaption>
                 </figure>
             </div>

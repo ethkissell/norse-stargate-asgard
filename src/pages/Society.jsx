@@ -16,7 +16,7 @@ export default function Society() {
                     <img src={thorHammer} alt="test" />
                     </div>
                     <figcaption className="figure-caption">
-                        Thor's hammer in Stargate.
+                        Thor's Hammer in Stargate.
                     </figcaption>
                 </figure>
             </div>
@@ -31,7 +31,7 @@ export default function Society() {
                         <img src={norseRunes} alt="test one" />
                     </div>
                     <figcaption className="figure-caption">
-                        Norse runes on a runestone.
+                        Norse runes on the Transjö runestone in Sweden.
                     </figcaption>
                     </figure>
 
