@@ -4,11 +4,11 @@ A React-based interactive capstone site comparing Old Norse myth with *Stargate*
 
 ## Live Site
 
-https://ethkissell.github.io/norse-stargate-asgard/
+[https://ethkissell.github.io/norse-stargate-asgard/](https://ethkissell.github.io/old-norse-capstone/)
 
 ## Repository
 
-https://github.com/ethkissell/norse-stargate-asgard
+[https://github.com/ethkissell/norse-stargate-asgard](https://github.com/ethkissell/old-norse-capstone)
 
 ## Stack
 
