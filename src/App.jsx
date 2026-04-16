@@ -1,4 +1,4 @@
-import React, {useState, useEffect} from "react";
+import React, { useEffect, useState } from "react";
 
 // React components
 import IconNav from "./components/IconNav";
@@ -37,11 +37,17 @@ export default function App() {
 
   // scrolling to top automatically
   const goHome = () => {
-    setActiveId('home');
-    window.scrollTo({
-      top: 0,
-    });
+    setActiveId("home");
   };
+  
+  useEffect(() => {
+    if (activeId === "home") {
+      window.scrollTo({
+        top: 0,
+        behavior: "smooth",
+      });
+    }
+  }, [activeId]);
  
   // Create the page
   return (
