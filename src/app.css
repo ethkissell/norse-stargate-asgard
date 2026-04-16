@@ -23,9 +23,9 @@
   --border-rune: rgba(212, 194, 138, 0.25);
 }
 
-html {
+/* html {
   scroll-behavior: smooth;
-}
+} */
 
 body {
   margin: 0;
