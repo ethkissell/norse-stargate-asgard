@@ -37,7 +37,16 @@ export default function App() {
 
   // scrolling to top automatically
   const goHome = () => {
-    setActiveId("home");
+    if (activeId === "home") {
+      // already home - manually scroll
+      window.scrollTo({
+        top: 0,
+        behavior: "smooth",
+      });
+    } else {
+      // trigger state change - useEffect will handle scroll
+      setActiveId("home");
+    }
   };
   
   useEffect(() => {
