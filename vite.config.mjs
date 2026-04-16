@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/norse-stargate-asgard/',
+  base: "/old-norse-capstone/",
   server: {
     port: 8000,
     strictPort: true
