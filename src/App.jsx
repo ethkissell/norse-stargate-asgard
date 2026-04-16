@@ -41,7 +41,7 @@ export default function App() {
       // already home - manually scroll
       window.scrollTo({
         top: 0,
-        behavior: "smooth",
+        // behavior: "smooth",
       });
     } else {
       // trigger state change - useEffect will handle scroll
@@ -53,7 +53,7 @@ export default function App() {
     if (activeId === "home") {
       window.scrollTo({
         top: 0,
-        behavior: "smooth",
+        // behavior: "smooth",
       });
     }
   }, [activeId]);
